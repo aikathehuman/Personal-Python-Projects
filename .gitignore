@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# IDE (Pycharm) specifications and preferences
+idea/
+# Local virtual environment
+venv/
