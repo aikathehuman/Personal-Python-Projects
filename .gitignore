@@ -4,6 +4,6 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 # IDE (Pycharm) specifications and preferences
-idea/
+.idea/
 # Local virtual environment
-venv/
+.venv/
